@@ -3,7 +3,7 @@
 
 # 1. 구축한 데이터 셋 
 
-  - 김보배(bappe)
+  - 김보배([bappe](https://www.kaggle.com/bappekim))
   
     - 서울시 미세먼지 데이터셋
       - https://www.kaggle.com/bappekim/air-pollution-in-seoul
@@ -11,7 +11,7 @@
     - 한국 관광객 데이터셋
       - https://www.kaggle.com/bappekim/south-korea-visitors
       
-  - 신민용(Minyong Shin)
+  - 신민용([Minyong Shin](https://www.kaggle.com/gyejr95))
   
     - 롤토체스(TFT) 골드 ~ 챌린저(Low elo ~ High elo) 매치 데이터셋
       - https://www.kaggle.com/gyejr95/tft-match-data
